@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="unityAdsMuteButtonSpeakerWaves">false</item>
+    <item type="id" name="unityAdsMuteButtonSpeakerX">false</item>
+    <item type="id" name="unityAdsPauseButton">false</item>
+    <item type="id" name="unityAdsVideoView">false</item>
+    <item type="id" name="unityAdsVideoSkipText">false</item>
+    <item type="id" name="unityAdsVideoBufferingText">false</item>
+    <item type="id" name="unityAdsVideoCountDown">false</item>
+    <item type="id" name="unityAdsVideoTimeLeftPrefix">false</item>
+    <item type="id" name="unityAdsVideoTimeLeftText">false</item>
+    <item type="id" name="unityAdsVideoTimeLeftSuffix">false</item>
+    <item type="id" name="unityAdsAudioToggleView">false</item>
+</resources>

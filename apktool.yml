@@ -1,0 +1,28 @@
+version: 2.0.2
+apkFileName: Street Basketball FreeStyle_v9_apkpure.com.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+sdkInfo:
+  minSdkVersion: '9'
+  targetSdkVersion: '19'
+packageInfo:
+  forced-package-id: '127'
+versionInfo:
+  versionCode: '9'
+  versionName: '9'
+sharedLibrary: false
+doNotCompress:
+- resources.arsc
+- assets/bin/Data/PlayerConnectionConfigFile
+- assets/bin/Data/sharedassets1.assets.split15
+- assets/bin/Data/sharedassets1.assets.split16
+- assets/bin/Data/sharedassets1.assets.split17
+- assets/bin/Data/sharedassets1.assets.split18
+- assets/bin/Data/sharedassets1.assets.split19
+- assets/bin/Data/sharedassets1.assets.split20
+- assets/bin/Data/sharedassets1.assets.split21
+- assets/bin/Data/sharedassets1.assets.split22
+- assets/bin/Data/sharedassets1.assets.split23
+- assets/bin/Data/sharedassets1.assets.split24
